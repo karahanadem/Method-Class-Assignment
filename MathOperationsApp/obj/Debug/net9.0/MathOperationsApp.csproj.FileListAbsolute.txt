@@ -1,0 +1,15 @@
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.exe
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.deps.json
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.runtimeconfig.json
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.dll
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.pdb
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.AssemblyInfoInputs.cache
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.AssemblyInfo.cs
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.csproj.CoreCompileInputs.cache
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.sourcelink.json
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.dll
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\obj\Debug\net9.0\refint\MathOperationsApp.dll
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.pdb
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.genruntimeconfig.cache
+C:\Users\Tutankamon\Desktop\adem-karahan\Method-Class-Assignment\MathOperationsApp\obj\Debug\net9.0\ref\MathOperationsApp.dll
